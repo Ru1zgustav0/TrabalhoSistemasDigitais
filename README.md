@@ -306,7 +306,7 @@ Utilizamos o [ChatGPT/Claude/Gemini] para auxiliar na geração do Testbench e n
 > Como você corrigiu o código gerado para que ele funcionasse na nossa placa e na simulação.
 
 ## 6. Contribuição dos participantes
-Utilize a taxonomia CRediT, seguem exemplos:
+
  * Ricardo Javurek Rihan, Administração do Projeto, Desenvolvimento, implementação e teste de software, Análise Formal, Validação de dados e experimentos
  * Gustavo ruiz Lirola Yokooji, Administração do Projeto, Desenvolvimento,  Análise Formal, Validação de dados e experimentos, Redação do manuscrito original
  * Paloma Valéria Campos de Lima, Administração do Projeto, Desenvolvimento, implementação e teste de software, Validação de dados e experimentos, Redação do manuscrito original
